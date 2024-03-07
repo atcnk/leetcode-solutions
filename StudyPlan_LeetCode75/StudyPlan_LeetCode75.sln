@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		238_ProductOfArrayExceptSelf.cs = 238_ProductOfArrayExceptSelf.cs
 		334_IncreasingTripletSubsequence.cs = 334_IncreasingTripletSubsequence.cs
 		345_ReverseVowelsOfAString.cs = 345_ReverseVowelsOfAString.cs
+		443_StringCompression.cs = 443_StringCompression.cs
 		605_CanPlaceFlowers.cs = 605_CanPlaceFlowers.cs
 	EndProjectSection
 EndProject
