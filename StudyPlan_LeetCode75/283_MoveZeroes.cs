@@ -1,22 +1,28 @@
-﻿class Solution
+﻿/* initialize index of first zero (fzi)
+ * we need to change first non zero number with first zero number
+ * loop through nums array, if num is zero continue
+ * if not, check if we're at fzi, increase fzi and continue
+ * if not, change the num with num at fzi
+ */
+
+class Solution
 {
     public void MoveZeroes(int[] nums)
     {
-        int index = -1;
-        int firstIndexOfZero = 0;
+        int i = -1, fzi = 0; // index of first zero
 
-        while (++index < nums.length)
+        while (++i < nums.length)
         {
-            if (nums[index] == 0) continue;
+            if (nums[i] == 0) continue;
 
-            if (index == firstIndexOfZero)
+            if (i == fzi)
             {
-                firstIndexOfZero++;
+                fzi++;
                 continue;
             }
 
-            nums[firstIndexOfZero++] = nums[index];
-            nums[index] = 0;
+            nums[fzi++] = nums[i];
+            nums[i] = 0;
         }
     }
 }
