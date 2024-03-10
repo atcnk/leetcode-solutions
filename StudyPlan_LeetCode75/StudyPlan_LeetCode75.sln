@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76D7102A-C7DA-4898-B14D-BDBFD7086F77}"
 	ProjectSection(SolutionItems) = preProject
 		1071_GreatestCommonDivisorOfStrings.cs = 1071_GreatestCommonDivisorOfStrings.cs
+		11_ContainerWithMostWater.cs = 11_ContainerWithMostWater.cs
 		1431_KidsWithTheGreatestNumberOfCandies.cs = 1431_KidsWithTheGreatestNumberOfCandies.cs
 		151_ReverseWordsInAString.cs = 151_ReverseWordsInAString.cs
 		1768_MergeStringsAlternately.cs = 1768_MergeStringsAlternately.cs
