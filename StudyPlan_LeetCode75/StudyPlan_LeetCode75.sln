@@ -18,6 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		392_IsSubsequence.cs = 392_IsSubsequence.cs
 		443_StringCompression.cs = 443_StringCompression.cs
 		605_CanPlaceFlowers.cs = 605_CanPlaceFlowers.cs
+		643_MaximumAverageSubarrayI.cs = 643_MaximumAverageSubarrayI.cs
 	EndProjectSection
 EndProject
 Global
