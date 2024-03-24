@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		1456_MaximumNumberOfVowelsInASubstringOfGivenLength.cs = 1456_MaximumNumberOfVowelsInASubstringOfGivenLength.cs
 		1493_LongestSubarrayOf1SAfterDeletingOneElement.cs = 1493_LongestSubarrayOf1SAfterDeletingOneElement.cs
 		151_ReverseWordsInAString.cs = 151_ReverseWordsInAString.cs
+		1657_DetermineIfTwoStringsAreClose.cs = 1657_DetermineIfTwoStringsAreClose.cs
 		1679._MaxNumberOfK-SumPairs.cs = 1679._MaxNumberOfK-SumPairs.cs
 		1732_FindTheHighestAltitude.cs = 1732_FindTheHighestAltitude.cs
 		1768_MergeStringsAlternately.cs = 1768_MergeStringsAlternately.cs
